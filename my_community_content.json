@@ -1,0 +1,32 @@
+{
+  "images" : [ ],
+  "messages" : [
+    {
+      "subject" : "Re: Introducing Microsoft Teams Rooms (Updated)",
+      "body" : "<p><a title=\"Community's Ideal discussion\" href=\"https://www.amzconsulant.bizz.com\" target=\"_blank\" rel=\"noopener\">https://www.amzconsulant.bizz.com<\/a>&nbsp;<\/p>",
+      "blog" : "Microsoft Teams Blog"
+    }
+  ],
+  "videos" : [ ],
+  "sent private messages" : [
+    {
+      "subject" : "Re: Your feedback is needed on end user adoption &amp; engagement with Microsoft 365 &amp; Office 365!",
+      "recipients" : [
+        "Dhruv_Jain"
+      ],
+      "body" : "thanks for infoemation .GoodLuck Azure Community."
+    }
+  ],
+  "received private messages" : [
+    {
+      "sender" : "Derek Mathis",
+      "subject" : "Azure Active Directory webinar series \u2013 register now for 10 October webinar!",
+      "body" : "<p>We are pleased to remind you of our ongoing Azure Active Directory webinar series where you will<strong> learn how to deploy Azure AD from the experts.<\/strong>&nbsp;<strong>Please visit<\/strong> <a href=\"https://aka.ms/AADWebinarCommunity\" target=_blank>https://aka.ms/AADWebinarCommunity<\/a> to register for our 5th webinar in this series: <a href=\"https://aka.ms/AADWebinarRegister5\" target=_blank>Starting your journey to Zero Trust with Conditional Access &amp; Identity Protection<\/a> on 10 October. You will also find here the full schedule for the rest of our webinars in this series, along with our full monthly AMA schedule.<\/p>\n<p>&nbsp;<\/p>\n<p>We look forward to seeing you on these webinars in October.<\/p>\n<p>&nbsp;<\/p>\n<p>-Thank you, Microsoft 365 Security Marketing and Azure AD CxP teams<\/p>\n<p><strong><em>&nbsp;<\/em><\/strong><\/p>\n<p><strong><em>You're receiving this email because you are a member of the AAD community. If you'd rather not receive these messages, you can toggle your group membership in the AAD community or change your notification settings in your profile.<\/em><\/strong><\/p>"
+    },
+    {
+      "sender" : "Dhruv_Jain",
+      "subject" : "Your feedback is needed on end user adoption &amp; engagement with Microsoft 365 &amp; Office 365!",
+      "body" : "<p>Microsoft is looking for IT professionals like you to share your ideas on end user adoption and engagement for Microsoft 365 &amp; Office 365. Please participate in this <a href=\"https://aka.ms/M365_O365Survey\" target=\"_blank\" rel=\"noopener\">survey<\/a> (retires EOD today, 6/19) to provide feedback, which will help drive the types of content Microsoft develops for you and your end-users.<br />&nbsp;<br />To qualify for this survey, you must meet the following criteria:<br />&nbsp;<br />- Your role involves end-user training / change management / adoption of Microsoft 365 &amp; Office 365 applications<br />- You are not in government or education sectors<br />- Your organization has at least 150 employees / seats on Microsoft 365 &amp; Office 365 subscription<br />&nbsp;<\/p>\n<p>Find the related blog post <a href=\"https://techcommunity.microsoft.com/t5/Office-365-Blog/Microsoft-wants-your-ideas-on-end-user-adoption-amp-engagement/ba-p/688489\" target=\"_blank\" rel=\"noopener\">here<\/a>.<\/p>\n<p><br /><em>You're receiving this email because you are a member of the Office 365 Community. If you'd rather not receive these messages, you can toggle your group membership in the Office 365 Community or change your notification settings in your profile.<\/em><\/p>"
+    }
+  ]
+}
